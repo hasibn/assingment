@@ -1,0 +1,322 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Roboto Mono', monospace;
+        margin: 0;
+}
+.section1{
+    background-image: url(image/donation7.jpg) ;
+   
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    text-align: center;
+  
+    
+    
+    
+}
+
+.jorna{
+    color: rgb(250, 73, 34);
+    font-size: 36px;
+    padding: 0%;
+}
+.big{
+    padding: 220px;
+}
+.porna{
+    color: white;
+    padding: 2%;
+    font-size: 25px;
+    
+}
+.porna p{
+    padding-bottom: 3%;
+}
+.ref a{
+    font-size: 23px;
+    text-decoration: none;
+    color: whitesmoke;
+    
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(aqua,blue);
+ 
+    
+}
+
+.rifat{
+    margin-top: 5%;
+    font-size: 28px;
+    margin-bottom: 3%;
+    text-align: center;
+
+}
+.vaiju{
+    margin: 6% 4% 6% 4%;
+    font-size: 20px;
+    text-align: center;
+}
+.alltaka{
+   
+   display: flex;
+   margin-left: 18%;
+   justify-content: space-around;
+    margin-right: 18%;
+}
+.hello1{
+    border: 5px solid beige;
+   box-shadow: 54px whitesmoke;
+    font-size: 29px;
+    padding:2% 3%;
+    color: rgba(0, 0, 0, 0.859);
+    background-color: antiquewhite;
+
+}
+.hello2 {
+    border: 5px solid rgb(211, 41, 44);
+    box-shadow: 54px whitesmoke;
+    font-size: 29px;
+    padding: 2% 3%;
+    color: rgba(0, 0, 0, 0.859);
+    background-color: antiquewhite;
+
+}
+.hello3 {
+    border: 5px solid beige;
+    box-shadow: 54px whitesmoke;
+    font-size: 29px;
+    padding: 2% 3%;
+    color: rgba(0, 0, 0, 0.859);
+    background-color: antiquewhite;
+
+}
+.hello4 {
+    border: 5px solid beige;
+    box-shadow: 54px whitesmoke;
+    font-size: 29px;
+    padding: 2% 3%;
+    color: rgba(0, 0, 0, 0.859);
+    background-color: antiquewhite;
+
+}
+.hello5 {
+    border: 5px solid beige;
+    box-shadow: 54px whitesmoke;
+    font-size: 29px;
+    padding: 2% 3%;
+    color: rgba(0, 0, 0, 0.859);
+    background-color: antiquewhite;
+
+}
+.section2{
+    margin: 8% 6% 8% 6%;
+}
+.bell{
+    text-align: center;
+    margin-top: 2%;
+}
+hr{
+    margin-top: 0.5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.bell2 {
+    
+    border: 5px solid bisque;
+    text-align: center;
+    color: aliceblue;
+    background-image: linear-gradient(aqua,blue);
+    margin-left: 45%;
+    margin-right:45%;
+    padding:10px 20px;
+    border-radius: 20px;
+    margin-top: 1%;
+}
+.bell2 a{
+    text-decoration: none;
+}
+.nila{
+    text-align: center;
+    margin-bottom: 4%;
+}
+.mila{
+    margin-bottom: 2%;
+    
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.borokaka{
+    display: flex;
+   
+}
+.kaka{
+   background-color: azure;
+   margin-right: 10px;
+   margin-left: 10px;
+   
+    padding: 10px 20px;
+}
+.kak {
+    background-color: beige;
+    margin-right: 10px;
+        margin-left: 10px;
+    
+   
+    padding: 10px 20px;
+}
+.kaki {
+    background-color: beige;
+    margin-right: 10px;
+        margin-left: 10px;
+   
+    padding: 10px 20px;
+}
+
+.kaka1{
+    font-size: 47px;
+   padding-left: 3%;
+}
+.kak1 i {
+    font-size: 47px;
+   
+    padding-left: 3%;
+}
+.kaki1 i{
+    font-size: 47px;
+   
+    padding-left: 3%;
+}
+.kaka2{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.kak2 {
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.kaki2 {
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.section3{
+    margin-bottom: 8%;
+}
+.boromama{
+    width: 50%;
+    
+    margin-left: 15%;
+}
+ img{
+    width: 50%;
+    margin-left: 20%;
+    height: 100%;
+}
+
+.section4{
+   
+    display: flex;
+    margin-bottom: 9%;
+}
+.mama h1{
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+.mama2 a{
+    margin-top: 6%;
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 1px solid;
+    color: white;
+    background-image: linear-gradient(aqua,blue);
+    border-radius: 9px;
+}
+.mama2{
+    margin-top: 6%;
+}
+.mam3 img{
+    width: 50%;
+}
+.section5{
+    display: flex;
+    margin-bottom: 9%;
+}
+.boromam{
+    margin-right: 18%;
+}
+.mam2 a {
+    
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 1px solid;
+    color: white;
+    background-image: linear-gradient(aqua, blue);
+    border-radius: 9px;
+}
+.mam2{
+    margin-top: 9%;
+}
+.mam h1 {
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+#email{
+    color: yellow;
+}
+.section6{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.pal .asif{
+    display: inline-block;
+}
+.rakib{
+    margin-bottom: 3%;
+    margin-left:30%;
+    margin-right:30%
+}
+.fahim{
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.asif a{
+    text-decoration: none;
+    color: azure;
+
+}
+.asif{
+    border: 1px solid;
+    padding: 10px 40px;
+    color: aliceblue;
+    background-image: linear-gradient(rgb(225, 255, 0),rgb(56, 15, 6));
+    border-radius: 10px;
+}
+.nirob{
+    padding-top: 7%;
+    padding-bottom: 5%;
+    margin-left: 19%;
+    margin-right: 19%;
+    background-color: aliceblue;
+}
+footer{
+    text-align: center;
+    background-color: tomato;
+    color: antiquewhite;
+  
+}
+#last{
+
+    padding-top: 2%;
+
+}
+#boom{
+    padding-bottom: 2%;
+}
+
+
+ 
+
+
